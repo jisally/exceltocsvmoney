@@ -1,3 +1,5 @@
+##소창 기말고사 대체 팀플 내파트
+
 import openpyxl
 import pandas as pd
 

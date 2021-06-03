@@ -1,3 +1,7 @@
+#각 월별 10일 단위로 나눠서txt에 금액 저장 추가
+#def의 반복 
+#반복되는거 반복문으로 줄일수 있는 방법이 없나...?
+
 import openpyxl
 import pandas as pd
 
